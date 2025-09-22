@@ -18,10 +18,9 @@
 - React Router for navigation
 
 **Backend:**
-- Node.js with Express
-- MongoDB with Mongoose
-- Multer for file uploads
-- JWT for authentication
+- Supabase (PostgreSQL + Auth + Storage)
+- Supabase Edge Functions for AI processing
+- Supabase Storage for receipt/statement files
 
 **AI Services:**
 - OpenAI Vision API for receipt OCR
